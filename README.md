@@ -1,5 +1,5 @@
 # Remote-Job-Finder
-# 🚀 Umair - Remote Job Finder (Automated Job Scraper & Dashboard)
+# 🚀 Umair - Remote Job Finder 
 
 A clean, responsive, and production-ready web application designed to streamline the remote job hunting process. The tool dynamically fetches, filters, and sorts relevant global remote job listings based on specific user fields, geographic regions, and posting timelines.
 
@@ -48,4 +48,4 @@ This architecture can be customized for enterprise clients or job board owners l
 ---
 ## 📬 Contact for Hire
 Looking for custom data scraping tools, web applications, or workflow automations? Let's talk:
-* **Email:** umair77cc@gmail.com
+* **Email:** iamumair.tech@gmail.com
