@@ -1,4 +1,3 @@
-# Remote-Job-Finder
 # 🚀 Umair - Remote Job Finder 
 
 A clean, responsive, and production-ready web application designed to streamline the remote job hunting process. The tool dynamically fetches, filters, and sorts relevant global remote job listings based on specific user fields, geographic regions, and posting timelines.
